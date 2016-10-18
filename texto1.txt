@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 wewe
 asdsdsqweqw
+=======
+<<<<<<< HEAD
+func 3 v2
+=======
+wewe
+>>>>>>> wewe
+>>>>>>> 82728765f1359c424ae5c2575a9e59694ade7633
